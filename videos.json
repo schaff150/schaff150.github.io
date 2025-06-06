@@ -1,0 +1,18 @@
+[
+    {
+        "location": "China",
+        "title": "Mountains",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_CH_C007_C011_PSNK_v02_SDR_PS_FINAL_20180709_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_CH_C007_C011_PSNK_v02_HDR_FINAL_20180709_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_CH_C007_C011_PSNK_v02_SDR_PS_FINAL_20180709_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_CH_C007_C011_PSNK_v02_HDR_FINAL_20180709_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "San Francisco",
+        "title": "Embarcadero/Ferry Building",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_1223LV_FLARE_v21_SDR_PS_FINAL_20180709_F0F5700_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_1223LV_FLARE_v21_HDR_PS_FINAL_20180710_F0F5700_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_1223LV_FLARE_v21_SDR_PS_FINAL_20180709_F0F5700_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_1223LV_FLARE_v21_HDR_PS_FINAL_20180710_F0F5700_HDR_4K_HEVC.mov"
+    }
+]
