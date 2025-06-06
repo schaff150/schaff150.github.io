@@ -14,5 +14,254 @@
         "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_1223LV_FLARE_v21_HDR_PS_FINAL_20180710_F0F5700_HDR_2K_HEVC.mov",
         "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_1223LV_FLARE_v21_SDR_PS_FINAL_20180709_F0F5700_SDR_4K_HEVC.mov",
         "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_1223LV_FLARE_v21_HDR_PS_FINAL_20180710_F0F5700_HDR_4K_HEVC.mov"
+    },
+        {
+        "location": "London",
+        "title": "Evening",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_L012_c002_PS_v01_SDR_PS_20180925_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_L012_C002_PS_v01_HDR_PS_20180925_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_L012_c002_PS_v01_SDR_PS_20180925_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_L012_C002_PS_v01_HDR_PS_20180925_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "London",
+        "title": "Thames",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_L004_C011_PS_v01_SDR_PS_20180925_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_L004_C011_PS_v01_HDR_PS_20180925_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_L004_C011_PS_v01_SDR_PS_20180925_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_L004_C011_PS_v01_HDR_PS_20180925_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "London",
+        "title": "London from Above",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_L007_C007_PS_v01_SDR_PS_20180925_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_L007_C007_PS_v01_HDR_PS_20180925_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_L007_C007_PS_v01_SDR_PS_20180925_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_L007_C007_PS_v01_HDR_PS_20180925_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "London",
+        "title": "Skyline",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_L010_C006_PS_v01_SDR_PS_20180925_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_L010_C006_PS_v01_HDR_PS_20180925_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_L010_C006_PS_v01_SDR_PS_20180925_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_L010_C006_PS_v01_HDR_PS_20180925_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "Los Angeles",
+        "title": "LAX Airport",
+        "url_1080p": "http://a1.phobos.apple.com/us/r1000/000/Features/atv/AutumnResources/videos/comp_LA_A006_C008_t9_6M_HB_tag0.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/LA_A006_C008_2K_HDR_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/LA_A006_C008_4K_SDR_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/LA_A006_C008_4K_HDR_HEVC.mov"
+    },
+    {
+        "location": "Los Angeles",
+        "title": "LAX Airport",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A006_C008_PSNK_ALL_LOGOS_v10_SDR_PS_FINAL_20180801_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A006_C008_PSNK_ALL_LOGOS_v10_HDR_PS_FINAL_20180801_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A006_C008_PSNK_ALL_LOGOS_v10_SDR_PS_FINAL_20180801_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A006_C008_PSNK_ALL_LOGOS_v10_HDR_PS_FINAL_20180801_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "Los Angeles",
+        "title": "Sunset (Griffith Park)",
+        "url_1080p": "http://a1.phobos.apple.com/us/r1000/000/Features/atv/AutumnResources/videos/comp_LA_A009_C009_t9_6M_tag0.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A009_C009_PSNK_v02_HDR_FINAL_20180709_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/LA_A009_C009_4K_SDR_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A009_C009_PSNK_v02_HDR_FINAL_20180709_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "Los Angeles",
+        "title": "Sunset (Griffith Park)",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A009_C009_PSNK_v02_SDR_PS_FINAL_20180709_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A009_C009_PSNK_v02_HDR_FINAL_20180709_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A009_C009_PSNK_v02_SDR_PS_FINAL_20180709_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A009_C009_PSNK_v02_HDR_FINAL_20180709_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "Los Angeles",
+        "title": "Beach",
+        "url_1080p": "http://a1.phobos.apple.com/us/r1000/000/Features/atv/AutumnResources/videos/comp_LA_A008_C004_ALT_v33_6Mbps.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/LA_A008_C004_2K_HDR_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/LA_A008_C004_4K_SDR_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/LA_A008_C004_4K_HDR_HEVC.mov"
+    },
+    {
+        "location": "Los Angeles",
+        "title": "Beach",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A008_C004_ALTB_ED_FROM_FLAME_RETIME_v46_SDR_PS_20180917_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A008_C004_ALTB_ED_FROM_FLAME_RETIME_v46_HDR_PS_20180917_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A008_C004_ALTB_ED_FROM_FLAME_RETIME_v46_SDR_PS_20180917_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A008_C004_ALTB_ED_FROM_FLAME_RETIME_v46_HDR_PS_20180917_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "Los Angeles",
+        "title": "LA Hills (Hollywood Sign)",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A006_C004_v01_SDR_FINAL_PS_20180730_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A006_C004_v01_HDR_FINAL_PS_20180730_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A006_C004_v01_SDR_FINAL_PS_20180730_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A006_C004_v01_HDR_FINAL_PS_20180730_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "Los Angeles",
+        "title": "Overpass",
+        "url_1080p": "http://a1.phobos.apple.com/us/r1000/000/Features/atv/AutumnResources/videos/comp_LA_A005_C009_v05_t9_6M.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A005_C009_PSNK_ALT_v08_HDR_FINAL_20180709_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/LA_A005_C009_4K_SDR_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A005_C009_PSNK_ALT_v08_HDR_FINAL_20180709_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "Los Angeles",
+        "title": "Overpass",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A005_C009_PSNK_ALT_v09_SDR_PS_201809134_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A005_C009_PSNK_ALT_v09_HDR_PS_20180914_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A005_C009_PSNK_ALT_v09_SDR_PS_201809134_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A005_C009_PSNK_ALT_v09_HDR_PS_20180914_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "Los Angeles",
+        "title": "Night (Downtown)",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/LA_A011_C003_2K_SDR_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/LA_A011_C003_2K_HDR_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/LA_A011_C003_4K_SDR_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/LA_A011_C003_4K_HDR_HEVC.mov"
+    },
+    {
+        "location": "Los Angeles",
+        "title": "Night (Downtown)",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A011_C003_DGRN_LNFIX_STAB_v57_SDR_PS_20181002_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A011_C003_DGRN_LNFIX_STAB_v57_HDR_PS_20181002_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A011_C003_DGRN_LNFIX_STAB_v57_SDR_PS_20181002_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LA_A011_C003_DGRN_LNFIX_STAB_v57_HDR_PS_20181002_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "New York City",
+        "title": "NYC Night from Above",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_N013_C004_PS_v01_SDR_PS_20180925_F1970F7193_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_N013_C004_PS_v01_HDR_PS_20180925_F1970F7193_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_N013_C004_PS_v01_SDR_PS_20180925_F1970F7193_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_N013_C004_PS_v01_HDR_PS_20180925_F1970F7193_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "New York City",
+        "title": "Midtown",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_N003_C006_PS_v01_SDR_PS_20180925_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_N003_C006_PS_v01_HDR_PS_20180925_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_N003_C006_PS_v01_SDR_PS_20180925_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_N003_C006_PS_v01_HDR_PS_20180925_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "New York City",
+        "title": "Skyline",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_N008_C003_PS_v01_SDR_PS_20180925_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_N008_C003_PS_v01_HDR_PS_20180925_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_N008_C003_PS_v01_SDR_PS_20180925_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_N008_C003_PS_v01_HDR_PS_20180925_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "New York City",
+        "title": "NYC from Above",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_N008_C009_PS_v01_SDR_PS_20180925_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_N008_C009_PS_v01_HDR_PS_20180925_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_N008_C009_PS_v01_SDR_PS_20180925_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_N008_C009_PS_v01_HDR_PS_20180925_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "Greenland",
+        "title": "Glacier",
+        "url_1080p": "http://a1.phobos.apple.com/us/r1000/000/Features/atv/AutumnResources/videos/comp_GL_G004_C010_v03_6Mbps.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/GL_G004_C010_2K_HDR_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/GL_G004_C010_4K_SDR_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/GL_G004_C010_4K_HDR_HEVC.mov"
+    },
+    {
+        "location": "Greenland",
+        "title": "Glacier",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GL_G004_C010_PSNK_v04_SDR_PS_FINAL_20180709_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GL_G004_C010_PSNK_v04_HDR_FINAL_20180709_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GL_G004_C010_PSNK_v04_SDR_PS_FINAL_20180709_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GL_G004_C010_PSNK_v04_HDR_FINAL_20180709_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "Greenland",
+        "title": "Coast",
+        "url_1080p": "http://a1.phobos.apple.com/us/r1000/000/Features/atv/AutumnResources/videos/plate_G002_C002_BG_t9_6M_HB_tag0.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/GL_G002_C002_2K_HDR_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/GL_G002_C002_4K_SDR_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/GL_G002_C002_4K_HDR_HEVC.mov"
+    },
+    {
+        "location": "Greenland",
+        "title": "Coast",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GL_G002_C002_PSNK_v03_SDR_PS_20180925_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GL_G002_C002_PSNK_v03_HDR_PS_20180925_HDR_2K_tuned.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GL_G002_C002_PSNK_v03_SDR_PS_20180925_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GL_G002_C002_PSNK_v03_HDR_PS_20180925_HDR_4K_tuned.mov"
+    },
+    {
+        "location": "Greenland",
+        "title": "Evening",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GL_G010_C006_PSNK_NOSUN_v12_SDR_PS_FINAL_20180709_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GL_G010_C006_PSNK_NOSUN_v12_HDR_FINAL_20180709_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GL_G010_C006_PSNK_NOSUN_v12_SDR_PS_FINAL_20180709_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GL_G010_C006_PSNK_NOSUN_v12_HDR_FINAL_20180709_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "Hawaii",
+        "title": "Coastline",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_H007_C003_PS_v01_SDR_PS_20180925_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_H007_C003_PS_v01_HDR_PS_20180925_HDR_2K_tuned.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_H007_C003_PS_v01_SDR_PS_20180925_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_H007_C003_PS_v01_HDR_PS_20180925_HDR_4K_tuned.mov"
+    },
+    {
+        "location": "Hawaii",
+        "title": "Clouds 1",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_H004_C009_PS_v01_SDR_PS_20180925_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_H004_C009_PS_v01_HDR_PS_20180925_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_H004_C009_PS_v01_SDR_PS_20180925_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_H004_C009_PS_v01_HDR_PS_20180925_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "Hawaii",
+        "title": "Ocean",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_H012_C009_PS_v01_SDR_PS_20180925_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_H012_C009_PS_v01_HDR_PS_20180925_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_H012_C009_PS_v01_SDR_PS_20180925_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_H012_C009_PS_v01_HDR_PS_20180925_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "Hawaii",
+        "title": "Valley 2",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_H005_C012_PS_v01_SDR_PS_20180925_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_H005_C012_PS_v01_HDR_PS_20180925_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_H005_C012_PS_v01_SDR_PS_20180925_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_H005_C012_PS_v01_HDR_PS_20180925_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "Hawaii",
+        "title": "Clouds 2",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_H004_C007_PS_v02_SDR_PS_20180925_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_H004_C007_PS_v02_HDR_PS_20180925_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_H004_C007_PS_v02_SDR_PS_20180925_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_H004_C007_PS_v02_HDR_PS_20180925_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "Hong Kong",
+        "title": "Night",
+        "url_1080p": "http://a1.phobos.apple.com/us/r1000/000/Features/atv/AutumnResources/videos/comp_HK_B005_C011_t9_6M_tag0.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/HK_B005_C011_2K_HDR_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/HK_B005_C011_4K_SDR_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/HK_B005_C011_4K_HDR_HEVC.mov"
+    },
+    {
+        "location": "Hong Kong",
+        "title": "Night",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_HK_B005_C011_PSNK_v16_SDR_PS_20180914_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_HK_B005_C011_PSNK_v16_HDR_PS_20180914_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_HK_B005_C011_PSNK_v16_SDR_PS_20180914_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_HK_B005_C011_PSNK_v16_HDR_PS_20180914_HDR_4K_HEVC.mov"
     }
+    
 ]
