@@ -16,12 +16,20 @@
         "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_1223LV_FLARE_v21_HDR_PS_FINAL_20180710_F0F5700_HDR_4K_HEVC.mov"
     },
     {
-        "location": "ai image",
-        "title": "ai image 2",
-        "url_1080p": "https://images.pexels.com/photos/237266/pexels-photo-237266.jpeg",   
-        "url_1080p_hdr": "https://images.pexels.com/photos/237266/pexels-photo-237266.jpeg",
-        "url_4k": "https://images.pexels.com/photos/237266/pexels-photo-237266.jpeg",
-        "url_4k_hdr": "https://images.pexels.com/photos/237266/pexels-photo-237266.jpeg"        
+        "location": "relax 15",
+        "title": "relax channel 15",
+        "url_1080p": "http://line.trx-ott.com/live/db983d8a4b/0b99e99dc5c0/1503005.ts",   
+        "url_1080p_hdr": "http://line.trx-ott.com/live/db983d8a4b/0b99e99dc5c0/1503005.ts",
+        "url_4k": "http://line.trx-ott.com/live/db983d8a4b/0b99e99dc5c0/1503005.ts",
+        "url_4k_hdr": "http://line.trx-ott.com/live/db983d8a4b/0b99e99dc5c0/1503005.ts"        
+    },
+    {
+        "location": "relax Europe towns",
+        "title": "relax channel Europe towns",
+        "url_1080p": "http://line.trx-ott.com/live/db983d8a4b/0b99e99dc5c0/1505566.ts",   
+        "url_1080p_hdr": "http://line.trx-ott.com/live/db983d8a4b/0b99e99dc5c0/1505566.ts",
+        "url_4k": "http://line.trx-ott.com/live/db983d8a4b/0b99e99dc5c0/1505566.ts",
+        "url_4k_hdr": "http://line.trx-ott.com/live/db983d8a4b/0b99e99dc5c0/1505566.ts"        
     }
 ]
 
