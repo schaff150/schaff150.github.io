@@ -2,10 +2,10 @@
     {
         "location": "Timnes Square",
         "title": "Timnes Square 4k",
-        "url_1080p": "https://videos-3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w940541285.m3u8",
-        "url_1080p_hdr": "https://videos-3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w940541285.m3u8",
-        "url_4k": "https://videos-3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w940541285.m3u8",
-        "url_4k_hdr": "https://videos-3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w940541285.m3u8"
+        "url_1080p": "https://videos-3.earthcam.com/fecnetwork/hdtimes10.flv/media_w338672308_15882.ts",
+        "url_1080p_hdr": "https://videos-3.earthcam.com/fecnetwork/hdtimes10.flv/media_w338672308_15882.ts",
+        "url_4k": "https://videos-3.earthcam.com/fecnetwork/hdtimes10.flv/media_w338672308_15882.ts",
+        "url_4k_hdr": "https://videos-3.earthcam.com/fecnetwork/hdtimes10.flv/media_w338672308_15882.ts"
     },
     {
         "location": "San Francisco",
