@@ -414,5 +414,54 @@
         "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_1223LV_FLARE_v21_HDR_PS_FINAL_20180710_F0F5700_HDR_2K_HEVC.mov",
         "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_1223LV_FLARE_v21_SDR_PS_FINAL_20180709_F0F5700_SDR_4K_HEVC.mov",
         "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_1223LV_FLARE_v21_HDR_PS_FINAL_20180710_F0F5700_HDR_4K_HEVC.mov"
-    }  
+    },  
+    {
+        "location": "relax 2",
+        "title": "relax channel 2",
+        "url_4k": "http://56969-poll.ott-tx.com/live/5327df4593/8a62561a6a46/1502992.ts",
+        "url_4k_hdr": "http://56969-poll.ott-tx.com/live/5327df4593/8a62561a6a46/1502992.ts"        
+    },
+    {
+        "location": "relax Europe towns",
+        "title": "relax channel Europe towns",
+        "url_4k": "http://56969-poll.ott-tx.com/live/5327df4593/8a62561a6a46/1505566.ts",
+        "url_4k_hdr": "http://56969-poll.ott-tx.com/live/5327df4593/8a62561a6a46/1505566.ts"        
+    },
+    {
+        "location": "relax 5",
+        "title": "relax channel 5",
+        "url_4k": "http://56969-poll.ott-tx.com/live/5327df4593/8a62561a6a46/1502995.ts",
+        "url_4k_hdr": "http://56969-poll.ott-tx.com/live/5327df4593/8a62561a6a46/1502995.ts"        
+    },
+    {
+        "location": "80s movies",
+        "title": "80s movies channel",
+        "url_4k": "http://56969-poll.ott-tx.com/live/5327df4593/8a62561a6a46/1050048.ts",
+        "url_4k_hdr": "http://56969-poll.ott-tx.com/live/5327df4593/8a62561a6a46/1050048.ts"        
+    },
+    {
+        "location": "relax 6",
+        "title": "relax channel 6",
+        "url_4k": "http://56969-poll.ott-tx.com/live/5327df4593/8a62561a6a46/1502996.ts",
+        "url_4k_hdr": "http://56969-poll.ott-tx.com/live/5327df4593/8a62561a6a46/1502996.ts"        
+    },
+    {
+        "location": "relax stardust",
+        "title": "stardust",
+        "url_4k": "http://56969-poll.ott-tx.com/live/5327df4593/8a62561a6a46/1505574.ts",
+        "url_4k_hdr": "http://56969-poll.ott-tx.com/live/5327df4593/8a62561a6a46/1505574.ts"        
+    },
+    {
+        "location": "Italy",
+        "title": "relax Italy",
+        "url_4k": "http://56969-poll.ott-tx.com/live/5327df4593/8a62561a6a46/1505561.ts",
+        "url_4k_hdr": "http://56969-poll.ott-tx.com/live/5327df4593/8a62561a6a46/1505561.ts"        
+    },
+    {
+        "location": "Turkey",
+        "title": "Relax Turkey",
+        "url_4k": "http://56969-poll.ott-tx.com/live/5327df4593/8a62561a6a46/1505563.ts",
+        "url_4k_hdr": "http://56969-poll.ott-tx.com/live/5327df4593/8a62561a6a46/1505563.ts
+    }
+
 ]
