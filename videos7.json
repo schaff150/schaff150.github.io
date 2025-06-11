@@ -120,46 +120,6 @@
         "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/HK_H004_C008_4K_HDR_HEVC.mov"
     },
     {
-        "location": "Hong Kong",
-        "title": "Harbor 2",
-        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_HK_H004_C008_PSNK_v19_SDR_PS_20180914_SDR_2K_HEVC.mov",
-        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_HK_H004_C008_PSNK_v19_HDR_PS_20180914_HDR_2K_HEVC.mov",
-        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_HK_H004_C008_PSNK_v19_SDR_PS_20180914_SDR_4K_HEVC.mov",
-        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_HK_H004_C008_PSNK_v19_HDR_PS_20180914_HDR_4K_HEVC.mov"
-    },
-    {
-        "location": "ISS",
-        "title": "Africa (night)",
-        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT312_162NC_139M_1041_AFRICA_NIGHT_v14_SDR_FINAL_20180706_SDR_2K_HEVC.mov",
-        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT312_162NC_139M_1041_AFRICA_NIGHT_v14_HDR_FINAL_20180706_HDR_2K_HEVC.mov",
-        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT312_162NC_139M_1041_AFRICA_NIGHT_v14_SDR_FINAL_20180706_SDR_4K_HEVC.mov",
-        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT312_162NC_139M_1041_AFRICA_NIGHT_v14_HDR_FINAL_20180706_HDR_4K_HEVC.mov"
-    },
-    {
-        "location": "ISS",
-        "title": "Africa and the Middle East",
-        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A103_C002_0205DG_v12_SDR_FINAL_20180706_SDR_2K_HEVC.mov",
-        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A103_C002_0205DG_v12_HDR_FINAL_20180706_HDR_2K_HEVC.mov",
-        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A103_C002_0205DG_v12_SDR_FINAL_20180706_SDR_4K_HEVC.mov",
-        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A103_C002_0205DG_v12_HDR_FINAL_20180706_HDR_4K_HEVC.mov"
-    },
-    {
-        "location": "ISS",
-        "title": "Antarctic Aurora",
-        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT110_112NC_364D_1054_AURORA_ANTARTICA__COMP_FINAL_v34_PS_SDR_20181107_SDR_2K_HEVC.mov",
-        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT110_112NC_364D_1054_AURORA_ANTARTICA__COMP_FINAL_v34_PS_HDR_20181107_HDR_2K_HEVC.mov",
-        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT110_112NC_364D_1054_AURORA_ANTARTICA__COMP_FINAL_v34_PS_SDR_20181107_SDR_4K_HEVC.mov",
-        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GMT110_112NC_364D_1054_AURORA_ANTARTICA__COMP_FINAL_v34_PS_HDR_20181107_HDR_4K_HEVC.mov"
-    },
-    {
-        "location": "ISS",
-        "title": "Atlantic Ocean to Spain and France",
-        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A001_C001_120530_v04_SDR_FINAL_20180706_SDR_2K_HEVC.mov",
-        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A001_C001_120530_v04_HDR_FINAL_20180706_HDR_2K_HEVC.mov",
-        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A001_C001_120530_v04_SDR_FINAL_20180706_SDR_4K_HEVC.mov",
-        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_A001_C001_120530_v04_HDR_FINAL_20180706_HDR_4K_HEVC.mov"
-    },
-    {
         "location": "London",
         "title": "Evening",
         "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_L012_c002_PS_v01_SDR_PS_20180925_SDR_2K_HEVC.mov",
